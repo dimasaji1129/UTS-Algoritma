@@ -1,0 +1,6 @@
+public class teori {
+    Matriks adalah struktur data yang statik,yaitu ukuran maksimum memorinya di tentukan dari awal.Batas indeks baris dan kolom harus terdefinisi dengan pasti saat dideklarasikan dan tak dapat di ubah-ubah.
+    Seringkali dalam persoalan semacam ini ,kita memesan memory secara “berlebihan” untuk alasan terjaminnya memory yang tersedia,dan hanya memakai sebagian saja.
+    Larik (array) adalah kumpulan variabel (disebut juga dengan elemen), berukuran tetap (fixed-length element collection), berurutan, dan mempunyai tipe data sama.
+    Tidak ada batasan berapa banyak dimensi larik yang dibuat, tetapi bukan sesuatu yang biasa membuat obyek larik dengan dimensi lebih dari tiga.Array sering digunakan untuk mengartikan berbagai tipe data,
+    jenis tipe data yang disediakan oleh yang paling tinggi tingkat bahasa pemrograman yang terdiri dari kumpulan nilai-nilai atau variabel yang dapat dipilih oleh satu atau lebih indeks dihitung pada saat run-time.
